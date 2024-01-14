@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbad2c9e-cc16-4748-83a6-fcc22e0402eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/final_project_client/src/app/models/product-pdp.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project_client/src/app/models/product-variant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_project_client/src/app/services/pdp.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_client/src/app/pages/home/middle-content/middle-content-pro/middle-content-pro.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_client/src/app/pages/home/middle-content/middle-content-pro/middle-content-pro.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_client/src/app/pages/pdp/pdp.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_client/src/app/pages/pdp/pdp.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_client/src/app/pages/pdp/pdp.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_client/src/app/pages/pdp/pdp.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_client/src/app/pages/pdp/pdp.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_client/src/app/pages/pdp/pdp.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/api/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/api/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/facade/ProductPdpFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/facade/ProductPdpFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/facade/impl/ProductPdpFacadeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/facade/impl/ProductPdpFacadeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/service/CrudService.java" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/service/CrudService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/service/product/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/service/product/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/service/product/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/final_project_server/src/main/java/com/ra1ntest/service/product/impl/ProductServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ra1ntop&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5f697673-0d4a-455d-bfe1-6f1ccf1571bf" />
+        <option name="url" value="https://github.com/Ra1ntop/pet_project.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2auWy0KYeRogNyddnkCj4pHpONU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JavaScript Debug.plp.component.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macuser/IdeaProjects/pet_project/final_proj&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/macuser/IdeaProjects/pet_project/final_proj/final_project_client/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbad2c9e-cc16-4748-83a6-fcc22e0402eb" name="Changes" comment="" />
+      <created>1705169194152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705169194152</updated>
+      <workItem from="1705169195183" duration="13712000" />
+      <workItem from="1705238742486" duration="4332000" />
+      <workItem from="1705248663468" duration="7315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
